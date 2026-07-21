@@ -1,34 +1,30 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Vikash Kumar Pandey
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,30:0EA5E9,70:7C3AED,100:E11D48&text=Vikash%20Kumar%20Pandey&fontColor=ffffff&fontSize=48&fontAlignY=35&desc=Data%20Analytics%20%7C%20Business%20Analytics%20%7C%20Cyber%20Security&descAlignY=58&descSize=20&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Data+Analytics+Engineer;Business+Analytics+Enthusiast;Cyber+Security+Learner;Python+%7C+SQL+%7C+Power+BI;Turning+Data+Into+Business+Value"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0F172A,50:0EA5E9,100:7C3AED&text=Welcome%20To%20My%20GitHub&fontColor=ffffff&fontSize=38&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Data+Analytics+Engineer;Business+Analytics+Enthusiast;Cyber+Security+Learner;Python+%7C+SQL+%7C+Power+BI;Turning+Data+Into+Business+Value"/>
 
 <p>
+<a href="https://github.com/Vikashpandey866">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/Data%20Analytics-0EA5E9?style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/vikash-kumar-pandey-">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/Business%20Analytics-7C3AED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Cyber%20Security-E11D48?style=for-the-badge"/>
-
+<a href="mailto:pandvikash46@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 <p>
-
-<img src="https://komarev.com/ghpvc/?username=Vikashpandey866&style=for-the-badge&color=blue"/>
-
+<img src="https://komarev.com/ghpvc/?username=Vikashpandey866&style=for-the-badge&color=0e75b6"/>
 <img src="https://img.shields.io/github/followers/Vikashpandey866?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/Vikashpandey866?affiliations=OWNER&style=for-the-badge"/>
-
+<img src="https://img.shields.io/github/stars/Vikashpandey866?style=for-the-badge"/>
 </p>
 
 </div>
-
----
 
 # 💎 Professional Introduction
 
