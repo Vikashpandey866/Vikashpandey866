@@ -1,162 +1,104 @@
- <div align="center">
+<div align="center">
 
-# 👋 Hi, I'm Vikash Kumar Pandey
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Vikash Kumar Pandey
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Data+Analytics+%7C+Business+Analytics;Python+%7C+SQL+%7C+Power+BI;Cyber+Security+Enthusiast;Turning+Data+into+Business+Insights;Open+to+Internships+%26+Full-Time+Opportunities" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Data+Analytics+Engineer;Business+Analytics+Enthusiast;Cyber+Security+Learner;Python+%7C+SQL+%7C+Power+BI;Turning+Data+Into+Business+Value"/>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0F172A,50:0EA5E9,100:7C3AED&text=Welcome%20To%20My%20GitHub&fontColor=ffffff&fontSize=38&animation=fadeIn"/>
 
 <p>
-<img src="https://img.shields.io/badge/Data%20Analytics-00C2FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Analytics-0EA5E9?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Business%20Analytics-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cyber%20Security-FF6B35?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cyber%20Security-E11D48?style=for-the-badge"/>
+
 </p>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=Vikashpandey866&label=Profile%20Views&color=0e75b6&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/Vikashpandey866?label=Followers&style=flat-square"/>
-<img src="https://img.shields.io/github/stars/Vikashpandey866?affiliations=OWNER&style=flat-square"/>
+
+<img src="https://komarev.com/ghpvc/?username=Vikashpandey866&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/followers/Vikashpandey866?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Vikashpandey866?affiliations=OWNER&style=for-the-badge"/>
+
 </p>
 
 </div>
 
 ---
 
-# 💼 About Me
+# 💎 Professional Introduction
 
 ```yaml
-Name: Vikash Kumar Pandey
+Name:
+  Vikash Kumar Pandey
 
-Education:
-  Bachelor of Computer Applications (BCA)
+Role:
+  Aspiring Data Analyst
 
-Current Focus:
-  - Data Analytics
-  - Business Analytics
-  - Cyber Security
+Specialization:
+  • Data Analytics
+  • Business Analytics
+  • Cyber Security
 
-Currently Learning:
-  - Advanced SQL
-  - Power BI
-  - Python for Data Analysis
-  - Linux
-  - Network Security
+Mission:
+  Build impactful data-driven solutions
+  while continuously learning
+  modern security practices.
 
-Career Goal:
-  Become a Data Analyst and Business Analyst
-  while building strong Cyber Security skills.
-
-Open To:
-  ✔ Internship
-  ✔ Full-Time Opportunities
+Current Status:
+  🚀 Open to Internship
+  🚀 Open to Full-Time Opportunities
 ```
 
 ---
 
-# 🚀 What I Do
-
-📊 Analyze data to discover meaningful insights.
-
-📈 Build dashboards and business reports.
-
-🐍 Solve real-world problems using Python.
-
-🗄️ Write efficient SQL queries.
-
-📉 Create interactive visualizations.
-
-🔐 Learn and practice Cyber Security fundamentals.
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/vikash-kumar-pandey-">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-</a>
-
-<a href="mailto:pandvikash46@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
-</a>
-
-<a href="https://github.com/Vikashpandey866">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-## 💡 "Data tells a story. I love finding it."
-
-</div>
-# ⚡ Tech Arsenal
-
-<div align="center">
+# ⚡ Quick Snapshot
 
 <table>
 
 <tr>
 
-<td align="center" width="25%">
+<td align="center">
 
-### 📊 Data Analytics
+📊
 
-<img src="https://skillicons.dev/icons?i=python" /><br><br>
+### Analytics
 
-<img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=mysql&logoColor=white"/><br>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/><br>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+Extract insights from data
 
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
-### 📈 Business Analytics
+📈
 
-✔ KPI Dashboard
+### Business
 
-✔ Business Reports
-
-✔ Data Cleaning
-
-✔ Data Visualization
-
-✔ Trend Analysis
-
-✔ Business Insights
+Transform numbers into decisions
 
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
-### 🔐 Cyber Security
+🔐
 
-<img src="https://skillicons.dev/icons?i=linux" /><br><br>
+### Security
 
-Network Security
-
-Wireshark
-
-Nmap
-
-OWASP
-
-SOC Fundamentals
+Learning secure systems
 
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
-### 💻 Development
+🚀
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,vscode"/>
+### Goal
+
+Become an Industry Ready Professional
 
 </td>
 
@@ -164,76 +106,103 @@ SOC Fundamentals
 
 </table>
 
-</div>
-
 ---
-
-# 🧠 Core Expertise
-
-| Area | What I Work With |
-|------|------------------|
-| 📊 Data Analysis | Python, SQL, Excel |
-| 📈 Dashboarding | Power BI |
-| 🧹 Data Preparation | Cleaning, Transformation |
-| 📉 Visualization | Charts, Reports, KPIs |
-| 🗃 Database | MySQL, SQL Queries |
-| 🔐 Security | Linux, Networking Basics |
-
----
-
-# 🛠 Tools I Use
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,linux,vscode"/>
+## ⭐ "Data is valuable only when it creates meaningful decisions."
 
-<br><br>
+</div>
+# 🚀 Tech Arsenal
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<div align="center">
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,linux,vscode,html,css,js" />
 
 </div>
 
 ---
 
-# 📚 Currently Exploring
+# ⚙️ Core Technologies
+
+<div align="center">
+
+| 💻 Programming | 📊 Analytics | 📈 Visualization | 🔐 Security |
+|:-------------:|:------------:|:----------------:|:-----------:|
+| Python | SQL | Power BI | Linux |
+| Java | Excel | Tableau *(Learning)* | Wireshark |
+| JavaScript | Pandas | Matplotlib | Nmap |
+| HTML/CSS | NumPy | Plotly | Networking |
+
+</div>
+
+---
+
+# 📊 Technical Proficiency
+
+<div align="center">
+
+| Skill | Level |
+|-------|:-----:|
+| 🐍 Python | █████████░ 90% |
+| 🗄 SQL | ████████░░ 85% |
+| 📊 Excel | █████████░ 90% |
+| 📈 Power BI | ███████░░░ 75% |
+| 🐼 Pandas | ████████░░ 80% |
+| 🔢 NumPy | ███████░░░ 75% |
+| 🐧 Linux | ██████░░░░ 65% |
+| 🔐 Cyber Security | █████░░░░░ 60% |
+
+</div>
+
+---
+
+# 🧰 Development Environment
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Version_Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Platform-GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows"/>
+
+</div>
+
+---
+
+# 🎯 Current Learning Path
 
 ```text
-📊 Advanced SQL
-██████████░░░░░░░░ 55%
+📊 Data Analytics
+██████████████████████████ 100%
 
-📈 Power BI
-████████████░░░░░░ 65%
-
-🐍 Python for Analytics
-██████████████░░░░ 75%
+📈 Business Analytics
+███████████████████░░░░░░ 80%
 
 🔐 Cyber Security
-████████░░░░░░░░░░ 45%
+█████████████░░░░░░░░░░░░ 55%
 
-🐧 Linux
-██████████░░░░░░░░ 55%
+☁️ Cloud Basics
+██████░░░░░░░░░░░░░░░░░░░ 30%
 ```
 
 ---
 
 <div align="center">
 
-### ⚙️ *"The right tools turn raw data into meaningful decisions."*
+### ⚡ "Technology is a tool. Insight is the real power."
 
 </div>
-# 📊 GitHub Analytics Dashboard
+# 📊 Analytics Dashboard
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vikashpandey866&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vikashpandey866&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikashpandey866&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikashpandey866&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -249,7 +218,7 @@ SOC Fundamentals
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vikashpandey866&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vikashpandey866&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -265,102 +234,164 @@ SOC Fundamentals
 
 ---
 
-# 📅 Coding Overview
+# 📊 Coding Metrics
 
 <div align="center">
 
-| Metric | Status |
-|--------|--------|
-| 📂 Public Repositories | Growing Every Month 🚀 |
-| 🌱 Currently Learning | Daily |
-| 💻 Open Source | Active Learner |
-| 📊 Analytics Projects | Expanding |
-| 🔐 Security Practice | In Progress |
+| 📌 Metric | 📊 Status |
+|-----------|-----------|
+| 💻 Public Repositories | 🚀 Growing |
+| 🌱 Current Learning | Daily |
+| ⭐ Open Source | Active |
+| 📊 Analytics Projects | Building |
+| 🔐 Security Practice | Improving |
+| 📚 Continuous Learning | Every Week |
 
 </div>
 
 ---
 
-# 🚀 Development Philosophy
+# ⚡ Development Workflow
 
 ```text
-✔ Learn by Building
-
-✔ Solve Real Problems
-
-✔ Keep Code Clean
-
-✔ Stay Curious
-
-✔ Never Stop Improving
+Research
+    │
+    ▼
+Plan
+    │
+    ▼
+Code
+    │
+    ▼
+Test
+    │
+    ▼
+Deploy
+    │
+    ▼
+Improve
 ```
 
 ---
 
+# 💡 Engineering Principles
+
 <div align="center">
 
-### 📈 *"Consistency beats intensity. Small commits every day build great developers."*
+| Principle | Focus |
+|-----------|-------|
+| 🎯 Quality | Clean & Maintainable Code |
+| 📊 Analysis | Data-Driven Decisions |
+| 🚀 Growth | Learn Every Day |
+| 🤝 Collaboration | Open Source Mindset |
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 *"Small improvements every day create extraordinary results."*
 
 </div>
 # 🚀 Featured Projects
 
-> *Projects that showcase my problem-solving, analytical thinking, and technical skills.*
+<div align="center">
+
+### 💼 Transforming Ideas into Real-World Solutions
+
+*Every project reflects my journey in Data Analytics, Business Analytics, and Cyber Security.*
+
+</div>
+
+---
 
 <table>
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📊 Sales Analytics Dashboard
+## 📊 Sales Analytics Dashboard
 
-Analyze sales performance using interactive dashboards and KPIs.
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
 
-**Highlights**
+### 🎯 Objective
+
+Build an interactive dashboard to monitor business sales performance.
+
+### 🚀 Features
 
 - 📈 Revenue Analysis
 - 📊 KPI Dashboard
-- 📅 Monthly Sales Trends
-- 🎯 Business Insights
+- 📅 Monthly Trends
+- 🌍 Regional Performance
+- 📉 Profit Insights
 
-**Tech Stack**
+### 🛠 Tech Stack
 
 `Python` `SQL` `Power BI` `Excel`
 
+### 📌 Outcome
+
+Help businesses make data-driven decisions through interactive visualizations.
+
+<p>
+
 <a href="#">
-<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
 </a>
+
+</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📈 Customer Segmentation
+## 👥 Customer Segmentation
 
-Identify customer groups for better marketing strategies.
+<img src="https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square"/>
 
-**Highlights**
+### 🎯 Objective
 
-- 👥 Customer Clustering
-- 📊 Data Visualization
-- 📉 Business Insights
-- 🎯 Decision Support
+Discover customer groups using machine learning techniques.
 
-**Tech Stack**
+### 🚀 Features
 
-`Python` `Pandas` `NumPy` `Matplotlib`
+- Customer Clustering
+- Purchase Pattern Analysis
+- Behavioral Insights
+- Marketing Recommendations
+
+### 🛠 Tech Stack
+
+`Python`
+
+`Pandas`
+
+`NumPy`
+
+`Scikit-learn`
+
+### 📌 Outcome
+
+Improve customer targeting and marketing strategy.
+
+<p>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Documentation-0A66C2?style=for-the-badge"/>
 </a>
+
+</p>
 
 </td>
 
@@ -368,49 +399,85 @@ Identify customer groups for better marketing strategies.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔐 Network Security Toolkit
+## 🔐 Network Security Toolkit
 
-Basic security toolkit for learning networking and security analysis.
+<img src="https://img.shields.io/badge/Status-Learning-blue?style=flat-square"/>
 
-**Highlights**
+### 🎯 Objective
 
-- 🌐 Network Scanning
-- 🔍 Port Analysis
-- 🛡️ Security Testing
-- 📋 Scan Reports
+Develop a toolkit for basic security assessments.
 
-**Tech Stack**
+### 🚀 Features
 
-`Linux` `Nmap` `Wireshark`
+- Port Scanning
+- Network Discovery
+- Packet Analysis
+- Vulnerability Checks
+
+### 🛠 Tech Stack
+
+`Linux`
+
+`Nmap`
+
+`Wireshark`
+
+`Bash`
+
+### 📌 Outcome
+
+Strengthen practical networking and cyber security skills.
+
+<p>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github"/>
 </a>
+
+</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Python Automation
+## 🤖 Python Automation Suite
 
-Automate repetitive tasks with Python scripts.
+<img src="https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square"/>
 
-**Highlights**
+### 🎯 Objective
 
-- ⚙️ Automation
-- 📂 File Handling
-- 📊 Report Generation
-- 🚀 Productivity
+Automate repetitive office and analytics tasks.
 
-**Tech Stack**
+### 🚀 Features
+
+- File Automation
+- Excel Processing
+- Report Generation
+- Email Automation
+
+### 🛠 Tech Stack
 
 `Python`
 
+`OpenPyXL`
+
+`Pandas`
+
+`Automation`
+
+### 📌 Outcome
+
+Reduce manual effort and improve productivity.
+
+<p>
+
 <a href="#">
-<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github"/>
 </a>
+
+</p>
 
 </td>
 
@@ -424,304 +491,255 @@ Automate repetitive tasks with Python scripts.
 
 <div align="center">
 
-<a href="https://github.com/Vikashpandey866">
+> **Repository of the Month**
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vikashpandey866&repo=YOUR_REPOSITORY_NAME&theme=tokyonight&hide_border=true"/>
 
-</a>
+</div>
+
+---
+
+# 📈 Project Roadmap
+
+```text
+✅ Sales Analytics Dashboard
+
+⬜ HR Analytics Dashboard
+
+⬜ Customer Segmentation
+
+⬜ Financial Analytics
+
+⬜ E-Commerce Analytics
+
+⬜ Supply Chain Dashboard
+
+⬜ Network Security Toolkit
+
+⬜ Vulnerability Scanner
+
+⬜ SOC Log Analyzer
+
+⬜ Python Automation Suite
+```
+
+---
+
+<div align="center">
+
+## 💡 *"Great developers build projects. Great analysts solve business problems."*
+
+</div>
+# 🗺️ Career Journey
+
+<div align="center">
+
+```text
+                 🚀 MY TECH JOURNEY
+
+2024
+│
+├── 🎓 Started Programming
+│
+├── ☕ Learned Java Fundamentals
+│
+├── 🐍 Started Python
+│
+▼
+
+2025
+│
+├── 📊 Data Analytics
+│
+├── 🗄 SQL
+│
+├── 📈 Power BI
+│
+├── 📉 Excel Dashboard
+│
+├── 💼 Data Analyst Internship
+│
+▼
+
+2026
+│
+├── 📊 Advanced Analytics
+│
+├── 📈 Business Analytics
+│
+├── 🔐 Cyber Security
+│
+├── 🌍 Open Source
+│
+├── 🚀 Professional Portfolio
+│
+▼
+
+Future
+│
+├── 💼 Data Analyst
+├── 📈 Business Analyst
+├── 🔐 Security Analyst
+└── ☁ Cloud & AI
+```
 
 </div>
 
 ---
 
-# 📌 Project Principles
-
-```text
-✔ Solve Real Business Problems
-
-✔ Build Clean Dashboards
-
-✔ Write Maintainable Code
-
-✔ Learn by Building
-
-✔ Focus on Practical Impact
-```
+# 🎯 Career Objectives
 
 <div align="center">
 
-### 🚀 "Every project is an opportunity to learn, improve, and create value."
+| Short Term | Long Term |
+|------------|-----------|
+| Data Analyst | Senior Data Analyst |
+| Business Analyst | Analytics Consultant |
+| Power BI Expert | AI & Analytics Engineer |
+| SQL Expert | Cyber Security Specialist |
 
 </div>
 
-# 🏅 Experience & Certifications
+---
 
-<table>
+# 📜 Certifications Journey
 
-<tr>
-
-<td width="50%">
-
-## 💼 Internship Experience
-
-### 📊 Data Analyst Intern
-
-**Organization:** CETPA Infotech Pvt. Ltd.
-
-**Duration:** Aug 2025 – Dec 2025 *(Update as needed)*
-
-#### Responsibilities
-
-- 📈 Analyzed business datasets
-- 📊 Built interactive dashboards
-- 🗄️ Wrote SQL queries
-- 🧹 Performed data cleaning
-- 📉 Generated business reports
-- 📋 Prepared analytical insights
-
-</td>
-
-<td width="50%">
-
-## 📜 Certifications
+<div align="center">
 
 | Certification | Status |
-|---------------|--------|
-| Google Data Analytics | 🚀 Planned |
-| Microsoft Power BI | 🚀 Planned |
-| IBM Data Analyst | 🚀 Planned |
-| Cisco Networking | 📖 Learning |
-| EC-Council Cyber Security | 📖 Planned |
+|---------------|:------:|
+| Google Data Analytics | ⏳ |
+| Microsoft Power BI | ⏳ |
+| IBM Data Analyst | ⏳ |
+| Cisco CCNA | 📖 |
+| TryHackMe Learning Path | 📖 |
+| EC-Council | 🎯 |
 
-</td>
-
-</tr>
-
-</table>
+</div>
 
 ---
 
-# 🎯 Career Roadmap
+# 🌱 Learning Philosophy
+
+> **"Learning never stops. Every project is a new opportunity to grow, improve, and create impact."**
+
+---
+
+<div align="center">
+
+### 🚀 Building Skills Today for Tomorrow's Challenges
+
+</div>
+# 📊 Developer Dashboard
+
+<div align="center">
+
+| 🎯 Focus | 🚀 Status |
+|:---------|:---------:|
+| 📊 Data Analytics | 🟢 Active |
+| 📈 Business Analytics | 🟢 Active |
+| 🔐 Cyber Security | 🟡 Learning |
+| 🤖 AI & Automation | 🟡 Exploring |
+| 🌍 Open Source | 🟢 Growing |
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Weekly Workflow
 
 ```text
-2026
+📊 Analyze Data
+████████████████████ 100%
 
-██████████████████████████
+🐍 Python
+█████████████████░░ 90%
 
-✔ Data Analytics
+🗄 SQL
+████████████████░░░ 85%
 
-✔ Business Analytics
+📈 Dashboard Design
+██████████████░░░░░ 75%
 
-◉ Power BI Expert
-
-◉ Advanced SQL
-
-◉ Python Automation
-
-◉ Machine Learning Basics
-
-◉ SOC Fundamentals
-
-◉ Network Security
-
-◉ Cloud Basics
-
-██████████████████████████
+🔐 Cyber Security
+███████████░░░░░░░░ 60%
 ```
 
----
-
-# 📚 Learning Journey
-
-| Quarter | Focus Area |
-|---------|------------|
-| Q1 | SQL & Excel |
-| Q2 | Python & Pandas |
-| Q3 | Power BI & Dashboards |
-| Q4 | Cyber Security & Networking |
+</div>
 
 ---
 
-# 🌟 Community Goals
-
-- 🌍 Contribute to Open Source Projects
-- 📖 Share Learning Resources
-- 💡 Build Real-World Projects
-- 🤝 Collaborate with Developers
-- 🚀 Keep Improving Every Day
-
----
-
-# 📈 2026 Goals
+# 💼 Working Style
 
 <div align="center">
 
-| Goal | Progress |
-|------|----------|
-| 📊 15+ Analytics Projects | 🟡 |
-| 🔐 5+ Cyber Security Projects | 🟡 |
-| 🏆 Professional Certifications | 🟡 |
-| 🌍 Open Source Contributions | 🟡 |
-| 💼 Data Analyst Job | 🎯 |
+| 🧠 Think | 📊 Analyze | 💻 Build | 🚀 Improve |
+|:--------:|:----------:|:--------:|:----------:|
+| Research | Insights | Projects | Continuous Learning |
 
 </div>
 
 ---
 
-# 💬 Favorite Quote
-
-> **"Success in technology isn't about knowing everything—it's about learning something new every day."**
+# 🌍 Beyond Coding
 
 <div align="center">
 
-⭐ **Always Learning • Always Building • Always Growing** ⭐
+📚 Reading Tech Articles • ☕ Learning Daily • 🤝 Collaboration • 🌱 Self Improvement
 
 </div>
-# 🌐 Developer Profiles
+
+---
+
+# 🎖 Personal Motto
 
 <div align="center">
+
+> **"Stay Curious. Build Consistently. Never Stop Learning."**
+
+</div>
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:7C3AED,100:E11D48&height=130&section=footer"/>
+
+# 💙 Thanks for Visiting
+
+### If you enjoyed exploring my profile,
+
+⭐ Star my repositories
+
+🍴 Fork my projects
+
+🤝 Let's collaborate
+
+☕ Let's build something amazing together.
+
+---
+
+### 🌎 Connect With Me
+
+<a href="mailto:pandvikash46@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vikash-kumar-pandey-">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <a href="https://github.com/Vikashpandey866">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+---
 
-<a href="#">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-</a>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&color=00E5FF&center=true&width=700&lines=Thanks+for+visiting!;Happy+Coding!;Keep+Learning+Keep+Growing!;See+You+Again!"/>
 
 ---
 
-# 🎯 Current Focus
-
-<table>
-
-<tr>
-
-<td width="33%" align="center">
-
-## 📊 Analytics
-
-- Business Intelligence
-- Dashboard Design
-- SQL Optimization
-- KPI Reporting
-
-</td>
-
-<td width="33%" align="center">
-
-## 🔐 Security
-
-- Linux
-- Networking
-- SOC
-- Threat Detection
-
-</td>
-
-<td width="33%" align="center">
-
-## 🚀 Development
-
-- Python Automation
-- Git & GitHub
-- Clean Code
-- Documentation
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📖 Recommended Reading
-
-| 📚 Book | Purpose |
-|----------|---------|
-| Python for Data Analysis | Data Analytics |
-| Storytelling with Data | Visualization |
-| SQL Cookbook | SQL Mastery |
-| The Phoenix Project | Business & IT |
-| Linux Basics for Hackers | Cyber Security |
-
----
-
-# 🧩 Soft Skills
-
-<div align="center">
-
-| Skill | Level |
-|--------|-------|
-| 🗣 Communication | ⭐⭐⭐⭐☆ |
-| 🤝 Teamwork | ⭐⭐⭐⭐⭐ |
-| 🧠 Problem Solving | ⭐⭐⭐⭐⭐ |
-| ⏳ Time Management | ⭐⭐⭐⭐☆ |
-| 🎯 Critical Thinking | ⭐⭐⭐⭐⭐ |
-
-</div>
-
----
-
-# 🧭 Learning Philosophy
-
-```text
-Think
-
-↓
-
-Analyze
-
-↓
-
-Build
-
-↓
-
-Test
-
-↓
-
-Improve
-
-↓
-
-Repeat
-```
-
----
-
-# 🏁 Career Vision
-
-> **My vision is to combine analytical thinking with technology to build data-driven solutions and contribute to secure, reliable, and impactful systems.**
-
----
-
-<div align="center">
-
-## 💙 Thanks for visiting my profile!
-
-If you find my projects interesting, consider giving them a ⭐.
-
-*"Great careers are built one project at a time."*
+### ⭐ Made with ❤️ by Vikash Kumar Pandey ⭐
 
 </div>
