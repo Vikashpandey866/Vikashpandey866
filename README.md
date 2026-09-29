@@ -4,9 +4,9 @@
 
 <br>
 
-# 👋 Welcome to My GitHub
+### 👋 Welcome to My GitHub
 
-### 📊 Turning Data into Insights • 💼 Understanding Business • 💻 Building with Technology
+**Turning Data into Insights • Ideas into Solutions • Learning into Impact**
 
 <br>
 
@@ -34,9 +34,9 @@
 
 ### Hi, I'm **Vikash Kumar Pandey** 👋
 
-I'm a **BCA graduate with a Commerce background**, interested in combining **business understanding, data and technology** to solve real-world problems.
+I'm a **BCA graduate** with a background in Commerce and a growing interest in combining **business understanding, data and technology** to solve practical problems.
 
-I enjoy analysing data, creating dashboards, understanding business performance and building practical technology projects.
+I enjoy working with data, building dashboards, analysing business performance and learning how technology can support better decisions.
 
 ### 🎯 My Direction
 
@@ -46,7 +46,7 @@ I enjoy analysing data, creating dashboards, understanding business performance 
 💰 **Finance & Business Analysis**  
 💻 **Technology**
 
-I also have foundational knowledge of **Cybersecurity, Linux and Networking** and continue to explore the technical side of modern business systems.
+I also have foundational knowledge of **Cybersecurity, Linux and Networking**, which helps me understand the technical side of modern business systems.
 
 </td>
 
@@ -66,15 +66,15 @@ I also have foundational knowledge of **Cybersecurity, Linux and Networking** an
 
 | 📊 Data Analytics | 💼 Business Analytics | 📈 Business Intelligence |
 |:---:|:---:|:---:|
-| Python | Business Problems | Power BI |
-| SQL | KPI Analysis | Dashboards |
-| Excel | Business Insights | Reporting |
+| Data Cleaning | Business Problems | Power BI |
+| SQL Analysis | KPI Analysis | Dashboards |
+| Python | Insights | Reporting |
 
 | 💰 Finance & Business | 🔐 Technical Foundation |
 |:---:|:---:|
 | Financial Analysis | Linux |
-| Revenue Analysis | Networking |
-| Business Concepts | Cybersecurity Fundamentals |
+| Business Concepts | Networking |
+| Revenue & KPI Analysis | Cybersecurity Fundamentals |
 
 </div>
 
@@ -84,94 +84,85 @@ I also have foundational knowledge of **Cybersecurity, Linux and Networking** an
 
 ### 📊 Data & Analytics
 
-<p align="center">
-
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
-<br>
-
+<p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-
 </p>
 
 ### 💼 Business & BI
 
-<p align="center">
-
+<p>
 <img src="https://img.shields.io/badge/Business%20Analytics-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Business%20Intelligence-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data%20Visualization-0891B2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/KPI%20Analysis-059669?style=for-the-badge"/>
-
 </p>
 
 ### 💻 Development
 
-<p align="center">
-
+<p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </p>
 
 ### 🔐 Technical Foundation
 
-<p align="center">
-
+<p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Networking-0EA5E9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Nmap-1679A7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Cybersecurity%20Fundamentals-7C3AED?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 
 <td width="50%">
 
-## 📊 Sales Analytics Dashboard
+### 📊 Sales Analytics Dashboard
 
-Interactive dashboard for analysing:
+Interactive analytics project focused on:
 
-- Revenue
+- Revenue analysis
 - Sales performance
-- KPIs
+- KPI monitoring
 - Monthly trends
-- Regional performance
+- Regional insights
 
-**Tech**
-
+**Tech:**  
 `Python` `SQL` `Power BI` `Excel`
 
 </td>
 
 <td width="50%">
 
-## 👥 Customer Segmentation
+### 👥 Customer Segmentation
 
-Analytics project focused on:
+Data analysis and machine learning project focused on:
 
 - Customer behaviour
 - Purchasing patterns
 - Customer groups
 - Business insights
-- Data visualization
+- Visual analysis
 
-**Tech**
-
+**Tech:**  
 `Python` `Pandas` `NumPy` `Scikit-learn`
 
 </td>
@@ -182,24 +173,22 @@ Analytics project focused on:
 
 <td width="50%">
 
-## 🌐 TituHub
+### 🌐 TituHub
 
-Multi-purpose web platform combining business-oriented features with modern web development.
+A multi-purpose web platform combining business-oriented features with modern web development.
 
-**Tech**
-
+**Tech:**  
 `Next.js` `React` `TypeScript` `Tailwind CSS`
 
 </td>
 
 <td width="50%">
 
-## 🌊 Water Pollution Map
+### 🌊 Water Pollution Map
 
-Interactive web project focused on environmental information and awareness.
+Interactive project designed to present environmental information and awareness through a web interface.
 
-**Tech**
-
+**Tech:**  
 `JavaScript` `HTML` `CSS`
 
 </td>
@@ -209,11 +198,13 @@ Interactive web project focused on environmental information and awareness.
 
 ---
 
-# 💼 Professional Experience
+## 💼 Professional Experience
 
 ### 📊 Data Analyst Intern — CETPA Infotech
 
-Worked on practical data analytics tasks including:
+**Data Analytics Training & Internship**
+
+Worked with:
 
 - 📑 Data Cleaning & Preparation
 - 🗄️ SQL Data Analysis
@@ -224,61 +215,59 @@ Worked on practical data analytics tasks including:
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-<div align="center">
+<table>
+<tr>
+<td>
 
-| 🎓 Qualification | 🏫 Institution | 📊 Result |
-|:---|:---|:---:|
-| **Bachelor of Computer Applications (BCA)** | Swami Vivekanand Subharti University | ✅ Completed |
-| **12th — Commerce** | Aditya Birla Intermediate College | **70.16%** |
-| **10th** | Jay Jyoti Inter College | **80%** |
+🎓 **Bachelor of Computer Applications (BCA)**
 
-</div>
+**Swami Vivekanand Subharti University**
+
+</td>
+
+<td align="center">
+
+✅ **Completed**
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 <div align="center">
 
-📊 **Advanced Data Analytics**
-
-⬇️
-
-💼 **Business Analytics**
-
-⬇️
-
-📈 **Power BI & Business Intelligence**
-
-⬇️
-
-💰 **Finance & Business Concepts**
-
-⬇️
-
+📊 **Advanced Data Analytics**  
+↓  
+💼 **Business Analytics**  
+↓  
+📈 **Power BI & Business Intelligence**  
+↓  
+💰 **Finance & Business Concepts**  
+↓  
 🔐 **Cybersecurity Fundamentals**
 
 </div>
 
 ---
 
-# 💡 How I Work With Data
-
-<div align="center">
+## 📌 What I Like Working On
 
 ```text
-        BUSINESS PROBLEM
-               ↓
-             DATA
-               ↓
-        DATA CLEANING
-               ↓
-           ANALYSIS
-               ↓
-       VISUALIZATION
-               ↓
-      BUSINESS INSIGHTS
-               ↓
-      BETTER DECISIONS
+Business Problem
+      ↓
+    Data
+      ↓
+Data Cleaning
+      ↓
+   Analysis
+      ↓
+Visualization
+      ↓
+Business Insight
+      ↓
+Better Decision
