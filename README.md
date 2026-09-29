@@ -1,32 +1,158 @@
+---
+
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        PREMIUM HERO                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 👋 Hey, I'm Vikash
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:111827,45:312E81,70:0369A1,100:059669&height=250&section=header&text=VIKASH%20KUMAR%20PANDEY&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=DATA%20ANALYTICS%20%20%E2%80%A2%20%20BUSINESS%20ANALYTICS%20%20%E2%80%A2%20%20TECHNOLOGY&descSize=18&descAlignY=59" width="100%"/>
+### 📊 Data Analytics • 💼 Business Analytics • 💻 Technology
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=850&height=55&lines=DATA+%E2%86%92+INSIGHTS+%E2%86%92+BUSINESS+VALUE;Building+Dashboards+%7C+Analysing+Data+%7C+Solving+Problems;Exploring+Business+%26+Finance+Analytics;Technology+with+a+Business+Mindset;Always+Learning+%E2%80%A2+Always+Building+%E2%80%A2+Always+Improving"/>
+**BCA Graduate | Commerce Background | Curious about Data & Business**
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Vikashpandey866&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Vikashpandey866?style=for-the-badge&color=312E81&label=FOLLOWERS"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/Vikashpandey866?style=for-the-badge&color=F59E0B&label=STARS"/>
+I enjoy working with data, building dashboards, understanding business problems,
+and turning information into meaningful insights.
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 What I'm Interested In
+
+</div>
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+
+### 📊
+**Data Analytics**
+
+Python • SQL  
+Excel • Power BI
+
+</td>
+
+<td align="center" width="25%">
+
+### 💼
+**Business Analytics**
+
+KPIs • Reporting  
+Business Insights
+
+</td>
+
+<td align="center" width="25%">
+
+### 💰
+**Finance & Business**
+
+Financial Analysis  
+Business Performance
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔐
+**Tech Foundation**
+
+Linux • Networking  
+Cybersecurity Basics
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🚀 What I Build
+
+<div align="center">
+
+| 📊 Analytics | 💻 Development | 💼 Business |
+|:---:|:---:|:---:|
+| Dashboards | Web Projects | KPI Analysis |
+| Data Analysis | Practical Apps | Business Insights |
+| Visualization | Automation | Reporting |
+
+</div>
+
+---
+
+## 💼 Experience
+
+### 📊 Data Analyst Intern — CETPA Infotech
+
+`Python` `SQL` `Excel` `Power BI` `Data Visualization`
+
+Worked on data preparation, analysis, dashboards, reporting and KPI-based insights.
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+**BCA** — Swami Vivekanand Subharti University · **Completed**
+
+**12th — Commerce** — Aadit Birla Intermediate College · **70.16%**
+
+**10th** — Jay Jyoti Inter College · **80%**
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+**📊 Sales Analytics**  
+Sales • Revenue • KPIs • Power BI
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+**👥 Customer Segmentation**  
+Customer Behaviour • Python • Pandas
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+**🌐 TituHub**  
+Business Platform • Next.js • React
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+**🌊 Water Pollution Map**  
+Interactive Web Project • JavaScript
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vikashpandey866&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikashpandey866&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 <br><br>
 
-<a href="https://github.com/Vikashpandey866">
-<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/vikash-kumar-pandey-2855022a6/">
-<img src="https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:pandvikash46@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=Vikashpandey866&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
@@ -34,48 +160,18 @@
 
 <div align="center">
 
-# 📊 My Analytics Mindset
+### 🤝 Let's Connect
 
-### **Data is everywhere. The value is in understanding it.**
+<a href="https://www.linkedin.com/in/vikash-kumar-pandey-2855022a6/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<br>
+<a href="mailto:pandvikash46@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/01%20%E2%80%94%20UNDERSTAND%20THE%20PROBLEM-312E81?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/02%20%E2%80%94%20WORK%20WITH%20DATA-0369A1?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/03%20%E2%80%94%20FIND%20INSIGHTS-0891B2?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/04%20%E2%80%94%20SUPPORT%20DECISIONS-059669?style=for-the-badge"/>
+<br><br>
+
+**⭐ Learn • Build • Analyze • Grow**
 
 </div>
-
-<br>
-
----
-
-# 👋 Who Am I?
-
-<table>
-<tr>
-
-<td width="65%" valign="top">
-
-### 🚀 Vikash Kumar Pandey
-
-I'm a **BCA graduate with a Commerce background**, building my career around the intersection of:
-
-**📊 Data + 💼 Business + 💻 Technology**
-
-I enjoy taking raw information, analysing it, visualising it and finding the story behind the numbers.
-
-### 🎯 Career Direction
-
-```text
-Data Analytics
-      ↓
-Business Analytics
-      ↓
-Business Intelligence
-      ↓
-Finance & Business Analysis
