@@ -1,288 +1,284 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    PREMIUM HERO SECTION                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,20:1E1B4B,45:312E81,70:0369A1,100:059669&height=280&section=header&text=VIKASH%20KUMAR%20PANDEY&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=DATA%20ANALYTICS%20%20%E2%80%A2%20%20BUSINESS%20ANALYTICS%20%20%E2%80%A2%20%20TECHNOLOGY&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:0891B2,100:10B981&height=180&section=header&text=Vikash%20Kumar%20Pandey&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20Business%20Analytics%20%7C%20Technology&descAlignY=60&descSize=18" width="100%"/>
 
 <br>
 
-<!-- ANIMATED INTRO -->
+# 👋 Welcome to My GitHub
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=900&height=60&lines=Turning+Data+into+Business+Insights+%F0%9F%93%8A;Building+Meaningful+Dashboards+%F0%9F%93%88;Exploring+Business+%26+Finance+Analytics+%F0%9F%92%BC;Connecting+Technology+with+Real-World+Problems+%F0%9F%92%A1;Always+Learning.+Always+Building.+%F0%9F%9A%80" />
+### 📊 Turning Data into Insights • 💼 Understanding Business • 💻 Building with Technology
 
-<br><br>
-
-<!-- PROFILE BADGES -->
-
-<img src="https://komarev.com/ghpvc/?username=Vikashpandey866&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Vikashpandey866?style=for-the-badge&color=312E81&label=FOLLOWERS"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/Vikashpandey866?style=for-the-badge&color=F59E0B&label=STARS"/>
-
-<br><br>
-
-<!-- SOCIAL BUTTONS -->
-
-<a href="https://github.com/Vikashpandey866">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br>
 
 <a href="https://www.linkedin.com/in/vikash-kumar-pandey-2855022a6/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:pandvikash46@gmail.com">
-<img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Vikashpandey866">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
-<br>
-
 ---
 
-<div align="center">
-
-## 📊 Data • 💼 Business • 💻 Technology
-
-### **I turn data into insights, insights into understanding, and technology into practical solutions.**
-
-<br>
+## 👨‍💻 About Me
 
 <table>
 <tr>
+<td width="60%">
 
-<td align="center" width="33%">
+### Hi, I'm **Vikash Kumar Pandey** 👋
 
-### 📊
+I'm a **BCA graduate with a Commerce background**, interested in combining **business understanding, data and technology** to solve real-world problems.
 
-## Data Analytics
+I enjoy analysing data, creating dashboards, understanding business performance and building practical technology projects.
 
-`Python`  
-`SQL`  
-`Excel`  
-`Power BI`  
-`Pandas`
+### 🎯 My Direction
 
-**Analyze • Visualize • Discover**
+📊 **Data Analytics**  
+💼 **Business Analytics**  
+📈 **Business Intelligence**  
+💰 **Finance & Business Analysis**  
+💻 **Technology**
 
-</td>
-
-<td align="center" width="33%">
-
-### 💼
-
-## Business Analytics
-
-`KPI Analysis`  
-`Business Intelligence`  
-`Reporting`  
-`Insights`  
-`Decision Support`
-
-**Understand • Interpret • Improve**
-
-</td>
-
-<td align="center" width="33%">
-
-### 💻
-
-## Technology
-
-`Linux`  
-`Networking`  
-`Cybersecurity`  
-`Git`  
-`Web Technologies`
-
-**Build • Explore • Learn**
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# 👋 About Me
-
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
-## 🚀 Hi, I'm **Vikash Kumar Pandey**
-
-🎓 **BCA Graduate** with a **Commerce background**, building my career around the intersection of **Data, Business and Technology**.
-
-I enjoy working with data, creating dashboards, exploring business problems and finding patterns that can turn raw information into useful insights.
-
-### 🎯 Where I'm Heading
-
-**Data Analytics**  
-↓  
-**Business Analytics**  
-↓  
-**Business Intelligence**  
-↓  
-**Finance & Business Analysis**
-
-My technical background gives me an additional perspective through **Python, SQL, Linux, Networking and Cybersecurity fundamentals**.
-
-<br>
-
-> 💡 **My goal is simple: understand the problem first,  
-> use data intelligently, and build solutions that create value.**
+I also have foundational knowledge of **Cybersecurity, Linux and Networking** and continue to explore the technical side of modern business systems.
 
 </td>
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/BCA-GRADUATE-4F46E5?style=for-the-badge"/>
-<br><br>
-<img src="https://img.shields.io/badge/DATA-ANALYTICS-0891B2?style=for-the-badge"/>
-<br><br>
-<img src="https://img.shields.io/badge/BUSINESS-ANALYTICS-059669?style=for-the-badge"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# 🧭 My Professional Direction
+## 🎯 Current Focus
 
 <div align="center">
 
-### From **Data → Insight → Business Value**
+| 📊 Data Analytics | 💼 Business Analytics | 📈 Business Intelligence |
+|:---:|:---:|:---:|
+| Python | Business Problems | Power BI |
+| SQL | KPI Analysis | Dashboards |
+| Excel | Business Insights | Reporting |
+
+| 💰 Finance & Business | 🔐 Technical Foundation |
+|:---:|:---:|
+| Financial Analysis | Linux |
+| Revenue Analysis | Networking |
+| Business Concepts | Cybersecurity Fundamentals |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 📊 Data & Analytics
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 <br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+
+</p>
+
+### 💼 Business & BI
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Business%20Analytics-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business%20Intelligence-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KPI%20Analysis-059669?style=for-the-badge"/>
+
+</p>
+
+### 💻 Development
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
+
+### 🔐 Technical Foundation
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Networking-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nmap-1679A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
 
-<td align="center" width="20%">
+<td width="50%">
 
-### 01
+## 📊 Sales Analytics Dashboard
 
-📥
+Interactive dashboard for analysing:
 
-**DATA**
+- Revenue
+- Sales performance
+- KPIs
+- Monthly trends
+- Regional performance
 
-Raw Data  
-Datasets  
-Transactions
+**Tech**
 
-</td>
-
-<td align="center" width="5%">
-
-### →
+`Python` `SQL` `Power BI` `Excel`
 
 </td>
 
-<td align="center" width="20%">
+<td width="50%">
 
-### 02
+## 👥 Customer Segmentation
 
-🔍
+Analytics project focused on:
 
-**ANALYZE**
+- Customer behaviour
+- Purchasing patterns
+- Customer groups
+- Business insights
+- Data visualization
 
-Python  
-SQL  
-Excel
+**Tech**
 
-</td>
-
-<td align="center" width="5%">
-
-### →
+`Python` `Pandas` `NumPy` `Scikit-learn`
 
 </td>
 
-<td align="center" width="20%">
+</tr>
 
-### 03
+<tr>
 
-📊
+<td width="50%">
 
-**VISUALIZE**
+## 🌐 TituHub
 
-Power BI  
-Dashboards  
-KPIs
+Multi-purpose web platform combining business-oriented features with modern web development.
 
-</td>
+**Tech**
 
-<td align="center" width="5%">
-
-### →
+`Next.js` `React` `TypeScript` `Tailwind CSS`
 
 </td>
 
-<td align="center" width="20%">
+<td width="50%">
 
-### 04
+## 🌊 Water Pollution Map
 
-💡
+Interactive web project focused on environmental information and awareness.
 
-**INSIGHT**
+**Tech**
 
-Patterns  
-Trends  
-Opportunities
-
-</td>
-
-<td align="center" width="5%">
-
-### →
-
-</td>
-
-<td align="center" width="20%">
-
-### 05
-
-💼
-
-**DECISION**
-
-Business Value  
-Strategy  
-Growth
+`JavaScript` `HTML` `CSS`
 
 </td>
 
 </tr>
 </table>
 
-<br>
+---
 
-<img src="https://img.shields.io/badge/DATA-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/INSIGHT-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BUSINESS%20VALUE-059669?style=for-the-badge"/>
+# 💼 Professional Experience
 
-</div>
+### 📊 Data Analyst Intern — CETPA Infotech
+
+Worked on practical data analytics tasks including:
+
+- 📑 Data Cleaning & Preparation
+- 🗄️ SQL Data Analysis
+- 📊 Dashboard Development
+- 📈 KPI Visualization
+- 📋 Business Reporting
+- 🐍 Python for Data Analysis
 
 ---
+
+# 🎓 Education
 
 <div align="center">
 
-### ✦ **Learn → Build → Analyze → Improve → Grow** ✦
+| 🎓 Qualification | 🏫 Institution | 📊 Result |
+|:---|:---|:---:|
+| **Bachelor of Computer Applications (BCA)** | Swami Vivekanand Subharti University | ✅ Completed |
+| **12th — Commerce** | Aditya Birla Intermediate College | **70.16%** |
+| **10th** | Jay Jyoti Inter College | **80%** |
 
 </div>
 
 ---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+📊 **Advanced Data Analytics**
+
+⬇️
+
+💼 **Business Analytics**
+
+⬇️
+
+📈 **Power BI & Business Intelligence**
+
+⬇️
+
+💰 **Finance & Business Concepts**
+
+⬇️
+
+🔐 **Cybersecurity Fundamentals**
+
+</div>
+
+---
+
+# 💡 How I Work With Data
+
+<div align="center">
+
+```text
+        BUSINESS PROBLEM
+               ↓
+             DATA
+               ↓
+        DATA CLEANING
+               ↓
+           ANALYSIS
+               ↓
+       VISUALIZATION
+               ↓
+      BUSINESS INSIGHTS
+               ↓
+      BETTER DECISIONS
